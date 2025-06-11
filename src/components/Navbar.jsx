@@ -55,4 +55,3 @@ function Navbar({ onSearch }) {
 }
 
 export default Navbar;
- 
